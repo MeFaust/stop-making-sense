@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stop Making Sense"
+  short_description: "Build exam-oriented Markdown tutorials from course materials"
+  default_prompt: "Use stop-making-sense to build a detailed, exam-oriented Markdown tutorial from the course materials in the opened project."
